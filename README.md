@@ -16,7 +16,7 @@
 ## Установка
 Склонируйте приложение на ваш компьютер
 ``` ruby
- git clone https://github.com/igorp123/viselitsa4
+ git clone https://github.com/igorp123/viselitsa
 ```
 Установите все необходимые гемы
 ``` ruby
