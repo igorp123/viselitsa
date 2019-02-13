@@ -20,7 +20,7 @@
 ``` ruby
  git clone https://github.com/igorp123/viselitsa
 ```
-Установите все необходимые гемы
+Установите все гемы,необходимые для работы приложения.
 ``` ruby
  bundle install
 ```
